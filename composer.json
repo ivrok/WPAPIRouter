@@ -1,0 +1,18 @@
+{
+    "name": "ivrok/wp-api-router",
+    "description": "An API Wordpress router.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ivrok\\WPAPIRouter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ian Traufler",
+            "email": "ian.traufler@bbconsult.co.uk"
+        }
+    ],
+    "require": {}
+}
